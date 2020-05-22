@@ -7,15 +7,15 @@
 
 - ログイン画面
 
-![ログイン](./login-3.png)
+![ログイン](./img/login-3.png)
 
 - ツイート一覧（ログアウト時)
 
-![ログイン](./login-2.png)
+![ログイン](./img/login-2.png)
 
 - ツイート一覧(ログイン時)
 
-![ログイン](./login-4.png)
+![ログイン](./img/login-4.png)
 
 ## UserDto.javaの作成
 
