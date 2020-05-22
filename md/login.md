@@ -9,11 +9,11 @@
 
 ![ログイン](./login-3.png)
 
-- ツイート一覧（ログイン時)
+- ツイート一覧（ログアウト時)
 
 ![ログイン](./login-2.png)
 
-- ツイート一覧(ログアウト時)
+- ツイート一覧(ログイン時)
 
 ![ログイン](./login-4.png)
 
@@ -227,7 +227,6 @@ public class LoginServlet extends HttpServlet{
 		</div>
 		<div>
 			<button type="submit">Login</button>
-			<a href="/okatter">戻る</a>
 		</div>
 	</form>
 </body>

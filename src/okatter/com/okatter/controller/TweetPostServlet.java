@@ -30,8 +30,6 @@ public class TweetPostServlet extends HttpServlet{
 			resp.sendRedirect(req.getContextPath() + "/");
 			return;
 		}
-		String  message = req.getParameter("message");
-		req.setAttribute("message", message);
 		req.getRequestDispatcher("/WEB-INF/post.jsp").forward(req, resp);
 	}
 
